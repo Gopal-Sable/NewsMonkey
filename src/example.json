@@ -1,0 +1,267 @@
+
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Story by Reuters",
+    "title": "UK expected to make U-turn on foreign worker visas - CNN",
+    "description": "Britain is expected to announce plans to issue temporary visas to truck drivers to alleviate an acute labor shortage that has led to fuel rationing at some filling stations and warnings from retailers of significant disruption in the run-up to Christmas.",
+    "url": "https://www.cnn.com/2021/09/25/business/uk-brexit-u-turn-intl-gbr/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210925062519-02-hgv-drivers-0906-super-tease.jpg",
+    "publishedAt": "2021-09-25T11:36:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "",
+    "title": "Germans Head To The Polls To Decide Who Will Succeed Angela Merkel - NPR",
+    "description": "Sunday's federal election will determine who will follow Merkel, who has served as Germany's chancellor for 16 years. The country's next government is expected to be a coalition of three parties.",
+    "url": "https://www.npr.org/2021/09/25/1040421916/germany-election-chancellor-merkel-parties-vote",
+    "urlToImage": "https://media.npr.org/assets/img/2021/09/24/ap21266453922326_wide-e43286f46bb604de1fc3c6084bdf8d608f3f7409.jpg?s=1400",
+    "publishedAt": "2021-09-25T11:07:57Z",
+    "content": "On Thursday, people in Gelsenkirchen, Germany, pass election posters of chancellor candidates Armin Laschet (from right) of the Christian Democratic Union, Annalena Baerbock of the Greens, Olaf Schol… [+3062 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "",
+    "title": "The Elizabeth Holmes Trial Sparks A Silicon Valley Debate: Why Not Other Tech CEOs? - NPR",
+    "description": "As the former CEO of the blood-testing company Theranos faces fraud charges, some are asking why other tech leaders accused of wrongdoing have avoided criminal charges.",
+    "url": "https://www.npr.org/2021/09/25/1040442689/elizabeth-holmes-trial-why-her-not-other-ceos",
+    "urlToImage": "https://media.npr.org/assets/img/2021/09/24/ap21251783950126_wide-763d0f04fc22c15305763e82c5c8aeb71de9630c.jpg?s=1400",
+    "publishedAt": "2021-09-25T11:07:24Z",
+    "content": "Elizabeth Holmes leaves the federal courthouse in San Jose, Calif., on Sept. 8.\r\nNic Coury/AP\r\nSelling an idea in Silicon Valley takes not only a grand vision but also swagger and bluster, says Marga… [+5268 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": "Heather Caygle, Sarah Ferris, Nicholas Wu",
+    "title": "Pelosi goes all in with domestic agenda on the line - POLITICO",
+    "description": "The outcome of Democrats' dual spending bills, with trillions of dollars in investments, could effectively be the denouement of the speaker's long and historic career.",
+    "url": "https://www.politico.com/news/2021/09/25/pelosi-domestic-agenda-514258",
+    "urlToImage": "https://static.politico.com/74/f2/4ef88d3142b3ae5370acb02050e9/210924-nancy-pelosi-getty-773.jpg",
+    "publishedAt": "2021-09-25T11:01:11Z",
+    "content": "I've got a lot of faith in Nancy Pelosi. She's worked a lot of magic. This is probably the biggest challenge that she's ever faced, that we as a caucus have faced, said Rep. Anthony Brown (D-Md.). \r\n… [+6654 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": "Burgess Everett, Marianne LeVine",
+    "title": "As Dems race forward, Manchin pumps brakes: ‘There is no timeline’ - POLITICO",
+    "description": "Democratic leadership has pushed their $3.5 trillion spending bill along without buy-in from the moderate West Virginia senator.",
+    "url": "https://www.politico.com/news/2021/09/25/democrats-bill-joe-manchin-514152",
+    "urlToImage": "https://static.politico.com/b5/cb/99a124aa47bda0f86d00c88fc115/ap21264518594540-1.jpg",
+    "publishedAt": "2021-09-25T11:00:31Z",
+    "content": "Whats the need? There is no timeline. I want to understand it, Manchin said in an interview on Thursday as he walked to his office. I dont think anything runs out. Right now, weve got good nutrition … [+5432 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "2021 Ryder Cup format: Scoring, rules, pairings, teams, TV schedule, coverage dates, captain's picks - CBS Sports",
+    "description": "Everything you need to know as the U.S. and European teams clash at Whistling Straits",
+    "url": "https://www.cbssports.com/golf/news/2021-ryder-cup-format-scoring-rules-pairings-teams-tv-schedule-coverage-dates-captains-picks/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/09/24/e3306c4f-876d-484c-bb93-1d502dfdcd54/thumbnail/1200x675/6b89f257f4ae2b0f9c777d7a4f658db0/usatsi-16816546.jpg",
+    "publishedAt": "2021-09-25T11:00:00Z",
+    "content": "The 43rd Ryder Cup is here, and this feels like perhaps the most-anticipated such event of all time given we all had to wait an extra year due to the COVID-19 pandemic. Then consider that Europe has … [+3872 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Story by Reuters",
+    "title": "Iceland goes to the polls and prepares for complicated outcome - CNN",
+    "description": "Icelanders vote on Saturday in an election that could have a messy outcome with a record nine parties likely to enter parliament, making it difficult to find common ground on topics like climate change and healthcare.",
+    "url": "https://www.cnn.com/2021/09/25/europe/iceland-elections-intl/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210925061009-01-iceland-election-0922-super-tease.jpg",
+    "publishedAt": "2021-09-25T10:23:00Z",
+    "content": "(CNN)Icelanders vote on Saturday in an election that could have a messy outcome with a record nine parties likely to enter parliament, making it difficult to find common ground on topics like climate… [+2586 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Susan Tompor, USA TODAY",
+    "title": "Child tax credit money arrives, but some parents say IRS shorted them and 'it makes no sense why' - USA TODAY",
+    "description": "The IRS didn't deliver the Sept. 15 payments in a timely fashion to many families. Some still wait; others received partial payments on Friday.",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2021/09/25/september-child-tax-credit-money-arrives/5850206001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2021/08/26/PDTF/b317664c-6c4d-4f2d-aaf6-a2df261f2dff-Sharon_Bayn2.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
+    "publishedAt": "2021-09-25T10:00:53Z",
+    "content": "<ul><li>The American Rescue Plan, which went into law in March, expanded the child tax credit and offered a new monthly advance payment that the IRS was mandated to issue from July through December.<… [+6512 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Jack Durschlag",
+    "title": "Cryptocurrency trading mixed, day after China crackdown - Fox Business",
+    "description": "Bitcoin was trading 0.54% lower early Saturday, one day after Chinese regulators said all crypto-related activities are illegal.",
+    "url": "https://www.foxbusiness.com/markets/cryptocurrency-trading-mixed-china-crackdown",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/04/0/0/bitcoin-drop.jpg?ve=1&tl=1",
+    "publishedAt": "2021-09-25T09:48:33Z",
+    "content": "Bitcoin was trading 0.54% lower early Saturday, one day after Chinese regulators said all crypto-related activities are illegal.\r\nTIGER WOODS, AUTOGRAPH, DRAFTKINGS LAUNCHING EXCLUSIVE NFT COLLECTION… [+1388 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Megan Specia, Anna Joyce",
+    "title": "U.K.’s Migrant Boat Dispute Has Eyes Fixed on the Channel - The New York Times",
+    "description": "The southeastern coast of England is increasingly the focal point of Britain’s migration debate as the government advocates more extreme measures to halt asylum seekers arriving by boat.",
+    "url": "https://www.nytimes.com/2021/09/25/world/europe/uk-migrants-channel-pushbacks.html",
+    "urlToImage": "https://static01.nyt.com/images/2021/09/20/world/xxuk-migrants01/xxuk-migrants01-facebookJumbo.jpg",
+    "publishedAt": "2021-09-25T09:00:20Z",
+    "content": "The Home Office declined to comment on the exercises, stating they were operationally sensitive.\r\nBut experts say the guidance may prove to be little more than political theater. Pushbacks can put li… [+855 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Travis Caldwell, CNN",
+    "title": "The search for Brian Laundrie in a swampy Florida nature reserve enters its second week - CNN",
+    "description": "Since being informed a week ago by Brian Laundrie's parents that they had not seen him for days, dozens of local and federal officers have searched high and low in a swampy Florida nature reserve for the 23-year-old following the disappearance and then the di…",
+    "url": "https://www.cnn.com/2021/09/25/us/gabby-petito-brian-laundrie-update-saturday/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210925000442-screengrab-police-brian-laundrie-house-florida-09-24-2021-super-tease.jpg",
+    "publishedAt": "2021-09-25T08:34:00Z",
+    "content": "(CNN)Since being informed a week ago by Brian Laundrie's parents that they had not seen him for days, dozens of local and federal officers have searched high and low in a swampy Florida nature reserv… [+5592 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "UFC’s Jon Jones arrested for domestic violence, vehicle damage - Al Jazeera English",
+    "description": "Former UFC light heavyweight champion arrested in Las Vegas following Hall of Fame induction.",
+    "url": "https://www.aljazeera.com/news/2021/9/25/mma-ufc-jon-jones-arrested-domestic-violence-vehicle-damage",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/09/2020-02-09T070634Z_1844208314_NOCID_RTRMADP_3_MMA-UFC-247-JONES-VS-REYES.jpg?resize=1200%2C630",
+    "publishedAt": "2021-09-25T08:19:25Z",
+    "content": "Former UFC champion Jonathan Dwight Jones, popularly known as Jon Jones, has been arrested in Las Vegas after an incident at Caesars Palace and charged with domestic battery and damaging a vehicle.\r\n… [+3529 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Aya Elamroussi, CNN",
+    "title": "'We will not boost our way out of this pandemic,' CDC director says as 70 million Americans remain unvaccinated - CNN",
+    "description": "Three-quarters of eligible Americans have received at least one dose of a Covid-19 vaccine and some are now able to receive an additional booster shot. But the virus still poses a great threat to more than 70 million people who remain unvaccinated.",
+    "url": "https://www.cnn.com/2021/09/25/health/us-coronavirus-saturday/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210925001919-restricted-pfizer-covid-19-vaccine-california-09-16-2021-super-tease.jpg",
+    "publishedAt": "2021-09-25T06:43:00Z",
+    "content": "(CNN)Three-quarters of eligible Americans have received at least one dose of a Covid-19 vaccine and some are now able to receive an additional booster shot. But the virus still poses a great threat t… [+5686 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Martin Pengelly",
+    "title": "‘He knows he lost’: Georgia Republican braces for Trump rally in Perry - The Guardian",
+    "description": "Top voting official Brad Raffensperger dismayed that the former president uses his lies to fundraise",
+    "url": "https://amp.theguardian.com/us-news/2021/sep/25/trump-rally-perry-georgia-republican-raffensperger-herschel-walker",
+    "urlToImage": "https://i.guim.co.uk/img/media/848c604071b2f42a735738fc33c9d648426544b0/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=96aeeb918b6c140773ae7981e97e005f",
+    "publishedAt": "2021-09-25T06:02:00Z",
+    "content": "The top election official in Georgia, a Republican, said Donald Trump unequivocally lost the state in 2020, a day before a rally there on Saturday night at whih Trump is set to repeat baseless accusa… [+3757 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Actor Michael K Williams died of accidental drug overdose, coroner confirms - BBC News",
+    "description": "The actor died after overdosing on a combination of fentanyl, p-fluorofentanyl, heroin and cocaine.",
+    "url": "https://www.bbc.com/news/world-us-canada-58684726",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1304/production/_120686840_michaelkwilliams.jpg",
+    "publishedAt": "2021-09-25T05:00:21Z",
+    "content": "image source, Getty Images\r\nimage captionMichael K. Williams died of an accidental drug overdose, authorities have said\r\nUS actor Michael K Williams died after overdosing on a combination of heroin, … [+1843 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tom's Guide"
+    },
+    "author": "Kate Kozuch",
+    "title": "Why I'm switching to iPhone 13 Pro Max from the iPhone 12 Pro Max - Tom's Guide",
+    "description": "I'll spend less per month for the iPhone 13 Pro Max than I did for the iPhone 12 Pro Max — here's why",
+    "url": "https://www.tomsguide.com/news/why-im-switching-to-the-iphone-13-pro-max-from-the-iphone-12-pro-max",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kf4kumKvdGhztqcdbTgMoi-1200-80.jpg",
+    "publishedAt": "2021-09-25T04:01:00Z",
+    "content": "I’m upgrading to the iPhone 13 Pro Max from the iPhone 12 Pro Max. What can I say — I like big phones.\r\nEver since I owned the iPhone 8 Plus, it’s been big screens for the best phones or bust. Whethe… [+2886 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Eleanor Eleanor",
+    "title": "​​FBI investigating female soldier's report that she was assaulted by Afghan refugees at military complex in New Mexico - CBS News",
+    "description": "The task force for evacuees at Fort Bliss is implementing additional security measures following the allegation.",
+    "url": "https://www.cbsnews.com/news/fbi-investigating-female-soldiers-report-that-she-was-assaulted-by-afghan-refugees-at-military-complex-in-new-mexico/",
+    "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/09/25/71b1fcd1-7a3b-49da-a797-312985b20057/thumbnail/1200x630/82eeccbad873830a9732d5ef97eaab08/ap-21236667350410.jpg",
+    "publishedAt": "2021-09-25T02:47:29Z",
+    "content": "The FBI confirmed Friday it is investigating an allegation from a U.S. soldier who reported being assaulted by a group of Afghan male evacuees at Fort Bliss' Doña Ana Complex in New Mexico. \r\n\"The sa… [+2540 chars]"
+    },
+    {
+    "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "Dennis Romero",
+    "title": "Gospel singer Kelly Price safe after she was reported missing, her lawyer says - NBC News",
+    "description": "Gospel singer Kelly Price is 'safe' after she was reported missing, her representative said. She had been hospitalized in the summer for Covid-19.",
+    "url": "https://www.nbcnews.com/news/us-news/gospel-singer-kelly-price-safe-after-she-was-reported-missing-n1280078",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_38/3508266/210924-singer-kelly-price-2019-ac-935p.jpg",
+    "publishedAt": "2021-09-25T02:32:00Z",
+    "content": "Noted gospel singer Kelly Price was safe Friday night after she had been reported missing in the Atlanta area, where she lives, her lawyer said.\r\nMonica Ewing said she doesn't believe Price was ever … [+1333 chars]"
+    },
+    {
+    "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "The Associated Press",
+    "title": "Canadians released after Huawei CFO resolves U.S. charges - NBC News",
+    "description": "Two Canadians detained in China on spying charges were freed Friday, hours after Huawei's chief financial officer resolved U.S. criminal charges in a deal with the Justice Department.",
+    "url": "https://www.nbcnews.com/news/world/canadians-released-after-huawei-cfo-resolves-u-s-charges-n1280079",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_38/3508270/210924-justin-trudeau-ac-951p.jpg",
+    "publishedAt": "2021-09-25T02:20:00Z",
+    "content": "NEW YORK Two Canadians detained in China on spying charges have been released from prison and flown out of the country, Prime Minister Justin Trudeau announced Friday, hours after a top executive of … [+5528 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Samuel Chamberlain",
+    "title": "Thousands of Haiti migrants flee Del Rio, try to reach border again: report - New York Post ",
+    "description": "After fleeing Del Rio, Texas, some migrants appeared headed to Mexico City and Monterrey. Some also bought tickets for Nogales, Mexico — a border city which adjoins a city of the same name in…",
+    "url": "https://nypost.com/2021/09/24/haiti-migrants-flee-del-rio-try-to-reach-border-again-report/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/haiti-migrants-flee-index.jpg?quality=90&strip=all&w=1024",
+    "publishedAt": "2021-09-25T02:10:00Z",
+    "content": "Thousands of Haitian migrants who fled the makeshift encampment at Del Rio, Texas, rather than be deported to their country of origin this week have reportedly opted to lie low in Mexico as they gear… [+4452 chars]"
+    }
+    ]
+    }

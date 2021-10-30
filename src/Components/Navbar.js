@@ -1,10 +1,12 @@
-import React from 'react'
+import React, { useState } from 'react'
+import Search from './Search';
+
 import {
     Link
 
 } from "react-router-dom";
 
-const Navbar = () => {
+const Navbar = (props) => {
 
     // constructor() {
     //     super();
@@ -15,13 +17,19 @@ const Navbar = () => {
     // qSearch() {
 
     // }
-    // const [search, setSearch] = useState("")
-    // const handleOnChange = (event) => {
-    //     setSearch(event.target.value)
-    // }
-    // const handleClick = () => {
+    
+    const [search, setSearch] = useState({ searchValue: "" })
+    const handleOnChange = (event) => {
+        
+        setSearch({ ...search, [event.target.name]: event.target.value })
 
-    // }
+    }
+    const handleClick = (e) => {
+       
+        props.search(search.searchValue)
+        Search();
+        
+    }
     // render() {
     return (
         <>
@@ -48,8 +56,8 @@ const Navbar = () => {
                             <li className="nav-item"><Link to="/technology" className="nav-link">Technology</Link></li>
                         </ul>
                         <form className="d-flex" >
-                            <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                            <button className="btn btn-outline-success" type="submit">Search</button>
+                            <input className="form-control me-2" type="search" onChange={handleOnChange} value={search.searchValue} name="searchValue" placeholder="Search" aria-label="Search" />
+                            <Link class="btn btn-primary" onClick={handleClick} to="/search" role="button">Search</Link>
                         </form>
                     </div>
                 </div>
